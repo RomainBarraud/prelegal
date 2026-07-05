@@ -1,0 +1,10 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.uat.genai-gateway.bolttech.kr/",
+    "ANTHROPIC_AUTH_TOKEN": "sk-zTdlv4lt-OFW8UwTrvMf0g",
+    "ANTHROPIC_MODEL": "global.anthropic.claude-opus-4-7"
+  },
+  "enabledPlugins": {
+    "feature-dev@claude-plugins-official": true
+  }
+}
